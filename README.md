@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System - Java Mini Project
+# 🏥 Hospital Management System - AIP Mini Project
 
 A simple **Hospital Management System** developed using **Java (Swing)** and **MySQL**. This project allows basic operations such as adding patients, managing rooms, updating details, and other administrative tasks.
 
